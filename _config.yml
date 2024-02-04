@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: West Midlands Radiology Research
+email: david.rosewarne@nhs.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+This site will be used as an agile multicontributor resource to pull together 
+information relating to stakeholders and practitioners
+in West Midlands radiology research activity.  It will be maintained by
+Dr David Rosewarne, West Midlands CRN radiology lead.  Please send information
+to david.rosewarne@nhs.net
 baseurl: /wm_radiology_research  # the subpath of your site, e.g. /blog
 url: http://rosewarnedm.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
